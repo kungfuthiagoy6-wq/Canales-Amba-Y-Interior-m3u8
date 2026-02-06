@@ -1,0 +1,55 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3cec1b1ea9799dda5596e64f37e5ed20":"c69f3afde2085dcaaaddbf55246a0323"}
+#EXTINF:-1,Telefe
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6243f46366445ebbf3117ec27365481":"81667cdc3bcf19a6a66c0919fa00a20b"}
+#EXTINF:-1,Argentinisima Satelital
+https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cc8c82ac2ec7e9799527c29db7354e81":"cc4aae173dd2ef17ae26be3f7ae87662"}
+#EXTINF:-1,TV Publica
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8ea235ce0826408b221c498115a9b62d":"7aa9266ed91ea4510483370029dfcf45"}
+#EXTINF:-1,America TV
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"24f4ff211136ae6512a1b552200db405":"602122f8426c5c942b8c18d299cc6020"}
+#EXTINF:-1,El Nueve
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e8c8e48bc6254f249218fd348aa5c587":"6cfbb561f854be342c6aac28166b21f2"}
+#EXTINF:-1,Canal 7 jujuy
+https://el4live1.boldmss.com/CANAL_7_JUJUY/CANAL_7_JUJUY_EL4.isml/CANAL_7_JUJUY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"662447df521fb590b72b1a11671c2afd":"81c204c443987d7b176587d626a124a0"}
+#EXTINF:-1,El Tres Rosario
+https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd
+
+#EXTINF:-1,Telefe Rosario
+https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7760caa058b51b7cce151c0539fa4a8f":"edd086c1011ed2c54cbe869d0e8d9289"}
+#EXTINF:-1,El Ocho Tucuman
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
+
+#EXTINF:-1,Diario Panorama Santiago
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6a47917ca83343ea8dcca63189e36d78":"84b0fe420ed5de7ef83c608d78d74f15"}
+#EXTINF:-1,Canal 7 Santiago
+https://anedgesgo.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwMTIzMDE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2MxZWRzL0NhbmFsXzdfU2FudGlhZ28vU0FfREFTSF9jaXBpeC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU3NTNjMjNmMjQwZDFiM2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiNzYyMjEiLCJkZXZpY2VfaWQiOiIxODQ0OTg2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE5MC4yLjEwNS4yMjUiLCJzZXNzaW9uX3RpbWVvdXQiOjEyMDAsImF1ZCI6IjEzIiwic291cmNlcyI6WzRdfQ==.zIhaKOHn2W7cO_4xPTHMpY0HaWi4PcI4pNK3VouFqBjxv7C6G8-APKfa2eJaYOluBEMgmrnUS4QpVleAqQQgaA==/live/c1eds/Canal_7_Santiago/SA_DASH_cipix/Canal_7_Santiago.mpd?dvr_window_length=30&token=WPKtsRxaVIVVwQg9qdj51FCs81CEtcDG
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eec52ca8f4d229ae6aae86b6835256ed":"506afbd8be37e388f5d3ceb7992069d4"}
+#EXTINF:-1,Canal 7 Santiago HD
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc_C/Canal7_SDE.mpd
